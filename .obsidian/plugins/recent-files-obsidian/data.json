@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "2309 Uni Sem 1",
+      "path": "ExampleNotes/2309 Uni Sem 1/2309 Uni Sem 1.md"
+    },
+    {
+      "basename": "23 Uni",
+      "path": "ExampleNotes/23 Uni/23 Uni.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
       "basename": "Двойное отношение",
       "path": "Двойное отношение.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Vault/Untitled.base"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "complexgeo",
@@ -41,10 +65,6 @@
       "path": "Vault/Templates/% new quiver.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Basic note stuff",
       "path": "Basic note stuff.md"
     },
@@ -59,10 +79,6 @@
     {
       "basename": "2312 RXB23",
       "path": "ExampleNotes/2312 RXB23/2312 RXB23.md"
-    },
-    {
-      "basename": "2309 Uni Sem 1",
-      "path": "ExampleNotes/2309 Uni Sem 1/2309 Uni Sem 1.md"
     },
     {
       "basename": "List of problems",
@@ -85,10 +101,6 @@
       "path": "ExampleNotes/Academia/STUDY Algebra/STUDY Algebra.md"
     },
     {
-      "basename": "23 Uni",
-      "path": "ExampleNotes/23 Uni/23 Uni.md"
-    },
-    {
       "basename": "Vault",
       "path": "Vault/Vault.md"
     },
@@ -99,10 +111,6 @@
     {
       "basename": "MTH101",
       "path": "ExampleNotes/2309 Uni Sem 1/MTH101/MTH101.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Vault/Untitled.base"
     }
   ],
   "omittedPaths": [],

@@ -387,6 +387,7 @@ vXR
 vD
 vAT
 vH
+views
 for
 from
 files
@@ -689,6 +690,8 @@ tzg
 tv
 tx
 tw
+type
+table
 in
 ideas
 is
@@ -2095,6 +2098,7 @@ TR
 THu
 TE
 Tu
+Table
 evergreen
 else
 executeCommandById
