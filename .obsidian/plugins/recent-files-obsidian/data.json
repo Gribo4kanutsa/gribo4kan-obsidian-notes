@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "complexgeo",
+      "path": "Supplement/complexgeo.pdf"
+    },
+    {
       "basename": "Двойное отношение",
       "path": "Двойное отношение.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "% daily note",
@@ -35,10 +43,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Basic note stuff",

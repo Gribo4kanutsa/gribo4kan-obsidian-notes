@@ -21,6 +21,18 @@
             "id": "802783ff77b5d892",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Supplement/complexgeo.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "complexgeo"
+            }
+          },
+          {
+            "id": "f94f7809f5e37bd1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Двойное отношение.md",
@@ -210,6 +222,10 @@
   },
   "active": "802783ff77b5d892",
   "lastOpenFiles": [
+    "Двойное отношение.md",
+    "Supplement/complexgeo.pdf",
+    "Home.md",
+    "Supplement",
     "Vault/Templates/% daily note.md",
     "Vault/Templates/% excalidraw.md",
     "Vault/Templates/% lecture-note.md",
@@ -217,9 +233,7 @@
     "Vault/Templates/% problem.md",
     "Vault/Templates/% new longform.md",
     "Vault/Templates/% new quiver.md",
-    "Двойное отношение.md",
     "README.md",
-    "Home.md",
     "Basic note stuff.md",
     "ExampleNotes/Academia/STUDY Algebra/COURSE Abstract Algebra/COURSE Abstract Algebra.L01.md",
     "ExampleNotes/Academia/Library/Library.md",
@@ -237,7 +251,6 @@
     "ExampleNotes/2309 Uni Sem 1/MTH101/MTH101.L01.md",
     "ExampleNotes/2309 Uni Sem 1/MTH101/MTH101.md",
     "Vault/Untitled.base",
-    "Templates/% problem.md",
     "Templates",
     "Vault/preamble 1.sty",
     "Git",
