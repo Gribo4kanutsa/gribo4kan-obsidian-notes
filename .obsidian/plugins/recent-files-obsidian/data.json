@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "STUDY Algebra",
-      "path": "ExampleNotes/Academia/STUDY Algebra/STUDY Algebra.md"
-    },
-    {
-      "basename": "2309 Uni Sem 1",
-      "path": "ExampleNotes/2309 Uni Sem 1/2309 Uni Sem 1.md"
-    },
-    {
-      "basename": "2312 RXB23",
-      "path": "ExampleNotes/2312 RXB23/2312 RXB23.md"
-    },
-    {
       "basename": "Двойное отношение",
       "path": "Двойное отношение.md"
+    },
+    {
+      "basename": "% daily note",
+      "path": "Vault/Templates/% daily note.md"
+    },
+    {
+      "basename": "% excalidraw",
+      "path": "Vault/Templates/% excalidraw.md"
+    },
+    {
+      "basename": "% lecture-note",
+      "path": "Vault/Templates/% lecture-note.md"
+    },
+    {
+      "basename": "% new",
+      "path": "Vault/Templates/% new.md"
+    },
+    {
+      "basename": "% problem",
+      "path": "Vault/Templates/% problem.md"
+    },
+    {
+      "basename": "% new longform",
+      "path": "Vault/Templates/% new longform.md"
+    },
+    {
+      "basename": "% new quiver",
+      "path": "Vault/Templates/% new quiver.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Home",
@@ -23,6 +43,22 @@
     {
       "basename": "Basic note stuff",
       "path": "Basic note stuff.md"
+    },
+    {
+      "basename": "COURSE Abstract Algebra.L01",
+      "path": "ExampleNotes/Academia/STUDY Algebra/COURSE Abstract Algebra/COURSE Abstract Algebra.L01.md"
+    },
+    {
+      "basename": "Library",
+      "path": "ExampleNotes/Academia/Library/Library.md"
+    },
+    {
+      "basename": "2312 RXB23",
+      "path": "ExampleNotes/2312 RXB23/2312 RXB23.md"
+    },
+    {
+      "basename": "2309 Uni Sem 1",
+      "path": "ExampleNotes/2309 Uni Sem 1/2309 Uni Sem 1.md"
     },
     {
       "basename": "List of problems",
@@ -37,8 +73,12 @@
       "path": "ExampleNotes/Life/Life.md"
     },
     {
-      "basename": "Library",
-      "path": "ExampleNotes/Academia/Library/Library.md"
+      "basename": "COURSE Abstract Algebra",
+      "path": "ExampleNotes/Academia/STUDY Algebra/COURSE Abstract Algebra/COURSE Abstract Algebra.md"
+    },
+    {
+      "basename": "STUDY Algebra",
+      "path": "ExampleNotes/Academia/STUDY Algebra/STUDY Algebra.md"
     },
     {
       "basename": "23 Uni",
@@ -47,10 +87,6 @@
     {
       "basename": "Vault",
       "path": "Vault/Vault.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "MTH101.L01",
