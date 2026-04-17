@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2159325a958dd8c4",
+        "id": "9d595c3a414a986a",
         "type": "tabs",
         "children": [
           {
-            "id": "29cb0d8c3052490e",
+            "id": "cf5a1f7c298c940a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Заметки о разном/Чева и Менелай.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Чева и Менелай"
+              "title": "New tab"
             }
           }
         ]
@@ -171,13 +167,23 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "f7e4e78f79ac8b04",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,31 +203,32 @@
       "structured-tree:Open Structured Tree": false
     }
   },
-  "active": "29cb0d8c3052490e",
+  "active": "cf5a1f7c298c940a",
   "lastOpenFiles": [
+    "ExampleNotes/2312 RXB23/2312 RXB23.md",
+    "ExampleNotes/2309 Uni Sem 1/2309 Uni Sem 1.md",
+    "ExampleNotes/23 Uni/23 Uni.md",
+    "README.md",
+    "Home.md",
+    "Basic note stuff.md",
+    "Заметки о разном/Чева и Менелай.md",
+    "Заметки о разном/Двойное отношение.md",
+    "Vault/Vault.md",
+    "ExampleNotes/readme.md",
+    "ExampleNotes/Home.md",
     "Заметки о разном/Картинки",
     "Заметки о разном/Картинки/ceva-menelaus.jpg",
-    "ExampleNotes/2312 RXB23/2312 RXB23.md",
     "ExampleNotes/Life/Life.md",
     "ExampleNotes/Longform notes/Longform notes.md",
-    "ExampleNotes/Home.md",
-    "ExampleNotes/readme.md",
-    "Заметки о разном/Чева и Менелай.md",
     "Заметки/Чева и Менелай.md",
-    "Vault/Vault.md",
-    "Заметки о разном/Двойное отношение.md",
     "Заметки/Untitled 1.md",
     "Заметки/Untitled.md",
     "Заметки о разном",
-    "README.md",
     "Untitled 1.md",
     "ExampleNotes/Academia/STUDY Algebra/COURSE Abstract Algebra/COURSE Abstract Algebra.md",
     "ExampleNotes/Academia/STUDY Algebra/COURSE Abstract Algebra/COURSE Abstract Algebra.L01.md",
-    "ExampleNotes/2309 Uni Sem 1/2309 Uni Sem 1.md",
-    "ExampleNotes/23 Uni/23 Uni.md",
     "Vault/Untitled.base",
     "Supplement/complexgeo.pdf",
-    "Home.md",
     "Supplement",
     "Vault/Templates/% daily note.md",
     "Vault/Templates/% excalidraw.md",
@@ -234,7 +241,6 @@
     "Templates",
     "Vault/preamble 1.sty",
     "Git",
-    "Git/sshkey.pub",
-    "Git/sshkey"
+    "Git/sshkey.pub"
   ]
 }

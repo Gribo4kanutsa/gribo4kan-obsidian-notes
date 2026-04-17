@@ -43,9 +43,9 @@ const endOfYear = {
 
 const lifespan = { year: 99 } 
 const birthday = DateTime.fromObject({
-    year: 2003,
-    month: 4,
-    day: 26
+    year: 2008,
+    month: 12,
+    day: 1
 });
 const deathday = birthday.plus(lifespan)
 
@@ -83,9 +83,9 @@ dv.span(`
 
 Some todos:
 
-- [ ] Look at [this tutorial video](https://youtu.be/XZDpq-3ozBI) and try to repeat the same, maybe?
-- [ ] Check [[Guide to markdown and beyond]] and pretty much every other note in this vault. There is a list here [[List of files]]
-- [ ] Update the community plugins.
+- [x] Look at [this tutorial video](https://youtu.be/XZDpq-3ozBI) and try to repeat the same, maybe?
+- [x] Check [[Guide to markdown and beyond]] and pretty much every other note in this vault. There is a list here [[List of files]]
+- [x] Update the community plugins.
 
 Always refer to:
 
