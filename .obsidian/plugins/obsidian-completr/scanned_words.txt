@@ -187,6 +187,7 @@ oNg
 odH
 oNl
 oV
+other
 notes
 note
 nearby
@@ -328,6 +329,9 @@ Mhsz
 Mhc
 Mi
 MxG
+Mathematics
+More
+Month
 vault
 value
 var
@@ -539,6 +543,7 @@ ce
 cxS
 csoT
 cxmc
+community
 platform
 papers
 parent
@@ -611,6 +616,10 @@ pxs
 pc
 pK
 pr
+possibilities
+parseInt
+pretty
+plugins
 taking
 topics
 title
@@ -692,6 +701,9 @@ tx
 tw
 type
 table
+targeted
+todos
+try
 in
 ideas
 is
@@ -901,6 +913,9 @@ ah
 apaUs
 ay
 aO
+an
+although
+aspects
 mostly
 math
 modified
@@ -974,6 +989,10 @@ myq
 mTMo
 mUMo
 mU
+majors
+making
+maybe
+much
 lectures
 left
 life
@@ -1042,6 +1061,7 @@ lRY
 lWA
 lhdS
 lx
+list
 books
 bar
 be
@@ -1183,6 +1203,7 @@ UL
 Ug
 UEk
 Uvd
+Update
 desc
 days
 date
@@ -1252,6 +1273,8 @@ dqd
 dn
 dR
 dfQTt
+deals
+day
 Vault
 VIEW
 Vr
@@ -1401,6 +1424,8 @@ Sson
 Si
 SWf
 Size
+STEM
+Some
 style
 semester
 see
@@ -1471,6 +1496,8 @@ skq
 spW
 sHqT
 startxref
+students
+showcases
 height
 have
 hZ
@@ -1542,6 +1569,7 @@ hB
 hm
 hH
 hpJX
+here
 width
 wiki
 want
@@ -1607,6 +1635,7 @@ wbG
 wVR
 wTH
 wv
+with
 It
 IKKg
 IYY
@@ -1826,6 +1855,7 @@ LRLN
 LA
 Lc
 Ln
+Look
 your
 yQTT
 yj
@@ -1895,6 +1925,7 @@ yFx
 yea
 yZ
 yil
+year
 PDF
 Problems
 Proposition
@@ -1964,6 +1995,7 @@ Pgk
 Pt
 Plc
 PJuHO
+Physics
 Algebra
 Alt
 Abstract
@@ -2027,6 +2059,7 @@ Ap
 AW
 ACT
 AIE
+Always
 This
 The
 Two
@@ -2099,6 +2132,7 @@ THu
 TE
 Tu
 Table
+There
 evergreen
 else
 executeCommandById
@@ -2171,6 +2205,8 @@ eZ
 eXi
 evVb
 eE
+especially
+every
 What
 We
 When
@@ -2360,6 +2396,10 @@ rDkc
 ri
 rZ
 roT
+readme
+resources
+repeat
+refer
 Congruency
 Ctrl
 CZ
@@ -2426,6 +2466,7 @@ Cv
 CpB
 Ck
 Cf
+Check
 Research
 RXB
 Resources
@@ -2850,6 +2891,7 @@ OA
 OB
 OT
 OF
+Obsidian
 XObject
 XH
 XKK

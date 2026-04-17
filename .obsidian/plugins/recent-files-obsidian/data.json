@@ -5,6 +5,26 @@
       "path": "Чева и Менелай.md"
     },
     {
+      "basename": "2312 RXB23",
+      "path": "ExampleNotes/2312 RXB23/2312 RXB23.md"
+    },
+    {
+      "basename": "Life",
+      "path": "ExampleNotes/Life/Life.md"
+    },
+    {
+      "basename": "Longform notes",
+      "path": "ExampleNotes/Longform notes/Longform notes.md"
+    },
+    {
+      "basename": "Home",
+      "path": "ExampleNotes/Home.md"
+    },
+    {
+      "basename": "readme",
+      "path": "ExampleNotes/readme.md"
+    },
+    {
       "basename": "Vault",
       "path": "Vault/Vault.md"
     },
@@ -15,14 +35,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Longform notes",
-      "path": "ExampleNotes/Longform notes/Longform notes.md"
-    },
-    {
-      "basename": "Life",
-      "path": "ExampleNotes/Life/Life.md"
     },
     {
       "basename": "COURSE Abstract Algebra",
@@ -87,10 +99,6 @@
     {
       "basename": "Library",
       "path": "ExampleNotes/Academia/Library/Library.md"
-    },
-    {
-      "basename": "2312 RXB23",
-      "path": "ExampleNotes/2312 RXB23/2312 RXB23.md"
     },
     {
       "basename": "List of problems",
