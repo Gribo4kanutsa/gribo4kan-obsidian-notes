@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,10 +220,10 @@
       "structured-tree:Open Structured Tree": false
     }
   },
-  "active": "802783ff77b5d892",
+  "active": "f94f7809f5e37bd1",
   "lastOpenFiles": [
-    "Двойное отношение.md",
     "Supplement/complexgeo.pdf",
+    "Двойное отношение.md",
     "Home.md",
     "Supplement",
     "Vault/Templates/% daily note.md",
