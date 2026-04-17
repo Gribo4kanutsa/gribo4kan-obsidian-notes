@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "1b735ad8d4d4bab2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2159325a958dd8c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d9cc902e1c97271",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "802783ff77b5d892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Двойное отношение.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Двойное отношение"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0275c8b543e3e495",
+    "type": "split",
+    "children": [
+      {
+        "id": "1df6f7f5a86d3cab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c990e595e67d288",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ecbcaa07ce317bc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e774b355997a83e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e6441adbbe8fbc02",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "14a6bc36bf2127de",
+    "type": "split",
+    "children": [
+      {
+        "id": "634a1621cb8af759",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5505030a8eb46e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
+            }
+          },
+          {
+            "id": "a2b24f8f1d863a45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
+            }
+          },
+          {
+            "id": "ec0273cab17bdd80",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0008accd7ac23218",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          },
+          {
+            "id": "b4a52f8fa96ef4d0",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Home.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "structured-tree:Open Structured Tree": false
+    }
+  },
+  "active": "802783ff77b5d892",
+  "lastOpenFiles": [
+    "Home.md",
+    "Basic note stuff.md",
+    "ExampleNotes/Academia/STUDY Algebra/STUDY Algebra.md",
+    "ExampleNotes/Academia/List of problems.md",
+    "ExampleNotes/Longform notes/Longform notes.md",
+    "ExampleNotes/Life/Life.md",
+    "ExampleNotes/Academia/Library/Library.md",
+    "ExampleNotes/2309 Uni Sem 1/2309 Uni Sem 1.md",
+    "ExampleNotes/23 Uni/23 Uni.md",
+    "ExampleNotes/2312 RXB23/2312 RXB23.md",
+    "Двойное отношение.md",
+    "Food for Thought/Untitled.md",
+    "Vault/Vault.md",
+    "README.md",
+    "Food for Thought",
+    "ExampleNotes/2309 Uni Sem 1/MTH101/MTH101.L01.md",
+    "ExampleNotes/2309 Uni Sem 1/MTH101/MTH101.md",
+    "Vault/Untitled.base",
+    "Templates/% problem.md",
+    "Templates/% new quiver.md",
+    "Templates/% new longform.md",
+    "Templates/% new.md",
+    "Templates/% lecture-note.md",
+    "Templates/% excalidraw.md",
+    "Templates/% daily note.md",
+    "Templates",
+    "Vault/preamble 1.sty",
+    "Git",
+    "Git/sshkey.pub",
+    "Git/sshkey"
+  ]
+}

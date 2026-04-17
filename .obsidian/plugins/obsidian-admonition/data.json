@@ -1,0 +1,85 @@
+{
+  "userAdmonitions": {
+    "definition": {
+      "type": "definition",
+      "color": "rgb(12, 223, 15)",
+      "icon": {
+        "name": "location-arrow",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Определение",
+      "iconWithCss": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "theorem": {
+      "type": "theorem",
+      "color": "rgb(245, 10, 10)",
+      "icon": {
+        "name": "book",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Теорема",
+      "iconWithCss": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "excercise": {
+      "type": "excercise",
+      "color": "rgb(230, 157, 0)",
+      "icon": {
+        "name": "pencil-alt",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Упражнение",
+      "iconWithCss": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "suggestion": {
+      "type": "suggestion",
+      "color": "rgb(37, 239, 215)",
+      "icon": {
+        "name": "volleyball-ball",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Предложение",
+      "iconWithCss": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "lemma": {
+      "type": "lemma",
+      "color": "rgb(222, 139, 23)",
+      "icon": {
+        "name": "atom",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Лемма",
+      "iconWithCss": false,
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "12.0.0",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": false,
+  "hideEmpty": false,
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.151e70"
+}

@@ -1,0 +1,9 @@
+{
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "supercharged-links-gen"
+  ],
+  "cssTheme": "Primary",
+  "accentColor": "#242af0",
+  "baseFontSize": 20
+}
