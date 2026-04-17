@@ -17,5 +17,6 @@
   "obsidian-copy-block-link",
   "obsidian-structured-plugin",
   "swiftlatex-render",
-  "structured-tree"
+  "structured-tree",
+  "obsidian-tikzjax"
 ]
