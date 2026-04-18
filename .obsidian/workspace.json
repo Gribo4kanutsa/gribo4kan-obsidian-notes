@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9d595c3a414a986a",
+        "id": "28915554ceaa29a8",
         "type": "tabs",
         "children": [
           {
-            "id": "cf5a1f7c298c940a",
+            "id": "12ee26b7ae5829b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,6 +78,16 @@
               "state": {},
               "icon": "clock",
               "title": "Recent Files"
+            }
+          },
+          {
+            "id": "bc6b76a25d33397b",
+            "type": "leaf",
+            "state": {
+              "type": "structured-tree-view",
+              "state": {},
+              "icon": "structured-activity-bar",
+              "title": "Structured Tree"
             }
           }
         ]
@@ -203,8 +213,10 @@
       "structured-tree:Open Structured Tree": false
     }
   },
-  "active": "cf5a1f7c298c940a",
+  "active": "12ee26b7ae5829b4",
   "lastOpenFiles": [
+    "found.sets.md",
+    "20260417220636.md",
     "ExampleNotes/2312 RXB23/2312 RXB23.md",
     "ExampleNotes/2309 Uni Sem 1/2309 Uni Sem 1.md",
     "ExampleNotes/23 Uni/23 Uni.md",
@@ -235,8 +247,6 @@
     "Vault/Templates/% lecture-note.md",
     "Vault/Templates/% new.md",
     "Vault/Templates/% problem.md",
-    "Vault/Templates/% new longform.md",
-    "Vault/Templates/% new quiver.md",
     "Food for Thought",
     "Templates",
     "Vault/preamble 1.sty",
