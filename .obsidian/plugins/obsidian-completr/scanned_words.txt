@@ -1997,6 +1997,7 @@ Pt
 Plc
 PJuHO
 Physics
+PTHS
 Algebra
 Alt
 Abstract

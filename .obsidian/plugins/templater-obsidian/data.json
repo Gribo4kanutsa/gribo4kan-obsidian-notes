@@ -16,15 +16,15 @@
   "folder_templates": [
     {
       "folder": "Longform notes",
-      "template": "Templates/% new longform.md"
+      "template": "Vault/Templates/% new longform.md"
     },
     {
       "folder": "/",
-      "template": "Templates/% new.md"
+      "template": "Vault/Templates/% new.md"
     },
     {
       "folder": "/Problems",
-      "template": "Templates/% problem.md"
+      "template": "Vault/Templates/% problem.md"
     }
   ],
   "enable_file_templates": false,

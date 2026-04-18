@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "28915554ceaa29a8",
+        "id": "7e982dfa22f756a4",
         "type": "tabs",
         "children": [
           {
-            "id": "12ee26b7ae5829b4",
+            "id": "ad5916ff6039be7b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Basic note stuff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic note stuff"
+            }
+          },
+          {
+            "id": "e2751178418a31b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExampleNotes/Academia/STUDY Algebra/STUDY Algebra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "STUDY Algebra"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,19 +232,30 @@
       "structured-tree:Open Structured Tree": false
     }
   },
-  "active": "12ee26b7ae5829b4",
+  "active": "e2751178418a31b3",
   "lastOpenFiles": [
-    "found.sets.md",
-    "20260417220636.md",
-    "ExampleNotes/2312 RXB23/2312 RXB23.md",
-    "ExampleNotes/2309 Uni Sem 1/2309 Uni Sem 1.md",
-    "ExampleNotes/23 Uni/23 Uni.md",
+    "ExampleNotes/Academia/Library/Library.md",
+    "PTHS.md",
+    "Untitled.md",
+    "Basic note stuff.md",
     "README.md",
     "Home.md",
-    "Basic note stuff.md",
+    "ExampleNotes/found.sets.md",
+    "Supplement/complexgeo.pdf",
+    "Supplement/PDF Notes.md",
+    "Vault/Vault.md",
+    "Supplement/PDF Notes",
+    "ExampleNotes/Academia/STUDY Algebra/STUDY Algebra.md",
+    "PTHS/ЭКФИ/18.04.md",
+    "PTHS/ЭКФИ",
+    "PTHS",
+    "ExampleNotes/2309 Uni Sem 1/2309 Uni Sem 1.md",
+    "ExampleNotes/23 Uni/23 Uni.md",
+    "PTHS",
+    "20260417220636.md",
+    "ExampleNotes/2312 RXB23/2312 RXB23.md",
     "Заметки о разном/Чева и Менелай.md",
     "Заметки о разном/Двойное отношение.md",
-    "Vault/Vault.md",
     "ExampleNotes/readme.md",
     "ExampleNotes/Home.md",
     "Заметки о разном/Картинки",
@@ -236,21 +266,9 @@
     "Заметки/Untitled 1.md",
     "Заметки/Untitled.md",
     "Заметки о разном",
-    "Untitled 1.md",
     "ExampleNotes/Academia/STUDY Algebra/COURSE Abstract Algebra/COURSE Abstract Algebra.md",
-    "ExampleNotes/Academia/STUDY Algebra/COURSE Abstract Algebra/COURSE Abstract Algebra.L01.md",
     "Vault/Untitled.base",
-    "Supplement/complexgeo.pdf",
     "Supplement",
-    "Vault/Templates/% daily note.md",
-    "Vault/Templates/% excalidraw.md",
-    "Vault/Templates/% lecture-note.md",
-    "Vault/Templates/% new.md",
-    "Vault/Templates/% problem.md",
-    "Food for Thought",
-    "Templates",
-    "Vault/preamble 1.sty",
-    "Git",
-    "Git/sshkey.pub"
+    "Food for Thought"
   ]
 }

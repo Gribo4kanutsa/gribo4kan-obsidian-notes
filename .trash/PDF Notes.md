@@ -21,5 +21,3 @@ if (newf.length > 0) {dv.paragraph("## New arrivals")
 dv.list(newf)}
 
 ```
-![[complexgeo.pdf]]
-
