@@ -9,3 +9,9 @@ aliases: []
 
 # PTHS
 
+
+```dataview
+table parent, progress, file.tags
+where contains(parent , this.file.link)
+```
+
